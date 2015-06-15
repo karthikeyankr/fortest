@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": ";AAAA,IAAI;EAAC,UAAU,ECAJ,IAAI;;ADCf,KAAK;EAAC,UAAU,ECET,IAAI;;ADDX,KAAK;EAAC,UAAU,ECDT,IAAI;;ADEX,KAAK;EAAC,UAAU,ECDT,IAAI",
+"sources": ["../scss/base/_test.scss","../scss/base/_variable.scss"],
+"names": [],
+"file": "main.css"
+}
