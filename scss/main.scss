@@ -1,4 +1,4 @@
-body{background:$body;}
-.main{background:$main;}
-.box1{background:$box1;}
-.box2{background:$box2;}
+/* scss file for testing */
+
+@import 'base/_variable.scss';
+@import 'base/_test.scss';
